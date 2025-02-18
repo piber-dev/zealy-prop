@@ -54,10 +54,10 @@ In the past, we have only used 2 roles in total in the Zealy Program, but now we
 
 ## Proposal funding
 
-Due to the steering committee meeting not always occuring at the last Thursday of each month, we are going back to requesting 4 months at a time with a month-long buffer at the end where we present our results and request additional funds. This will be done exactly as we did previously:
+Due to the Steering Committee Meeting not always occuring at the last Thursday of each month, we are going back to requesting 4 months at a time with a month-long buffer at the end where we present our results and request additional funds. This will be done exactly as we did previously:
 
 > We are also proposing asking for funding for at least 4 months at a time while reporting every 3 months to ensure that we can make the program run without breaks. One period can be between months 1-3 and then this will be reported on, and any changes/discussion will be made during the 4th month. The 4th month would be included in the next report and months 5 and 6 would include potential changes from the discussion on month 4. With our current system we have been unable to run the program without breaks because we plan the new periods during the breaks. - [discussion 633](https://github.com/orgs/akash-network/discussions/633)
 
 We are going to start a sprint for March under the assumption that the proposal is going to pass, but if it does not we will quickly end it and pay out rewards from the small amount of left-over funds.
 
-If no changes are made, we will request funding for 4 months for a total balance of $28000 USD making the total request to be approximately $20000 USD after keeping the rewards pool donation in mind.
+If no changes are made, we will request funding for 4 months for a total balance of $29336 USD only requesting the difference between the calculated funds after paying out for the February sprint after the Steering Committee Meeting.
