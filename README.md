@@ -24,7 +24,7 @@ Approximately 20% of submissions during the January sprint was suspected by us t
 
 The first promotional mission "Deploy on Quasarch" was successful, bringing the beta testing feedback of 140 users and at least the same number of users to the platform at a cost of 1.0-2.5 AKT per user.
 
-Although it wasn't easy, we were able to keep the budget in check.
+Although it wasn't easy, we were able to keep the budget in check. The first month was very successful even though the rewards were not higher than previous sprints, which used up all the unused funds from last proposal.
 
 ## Changes to the program
 
