@@ -45,8 +45,12 @@ In the past, we have only used 2 roles in total in the Zealy Program, but now we
 > 1x mission/contest lead @ $1000/role/month (creating new community, technical, and promotional missions and arranging specialized contests such as gamejams and focused and small hackathons)
 > 
 > 2x mission reviewers @ $750/role/month (reviewing all missions within 1-2 weeks and judging all contests)
+>
+> Subscriptions and other misc. costs @ upwards of $1000/quarter.
+>
+> Rewards/prize pool @ $3000 USD/month
 > 
-> Total: $4000/month
+> Total: $4334/month requested as USDC + $3000 USD/month worth of AKT.
 
 ## Proposal funding
 
