@@ -1,8 +1,8 @@
-# Zealy Proposal Q2
+# Zealy 2025 Program Q3
 
 ## Introduction
 
-The program targeting marketing and education is back! This time, we are fighting abuse, scaling the program away from Zealy, and improving downtime's between the sprints. Support us to see monthly sprints and a few smaller contests being hosted the coming months.
+The program targeting marketing and education is back, for real this time! A new program lead, and a lot from the last discussion which never hit the chain.
 
 [Details from the first proposal](https://github.com/orgs/akash-network/discussions/457)
 
@@ -10,54 +10,55 @@ The program targeting marketing and education is back! This time, we are fightin
 
 [Details from the third proposal](https://github.com/orgs/akash-network/discussions/728)
 
-## Highlights from the last proposal
+## High-level updates:
 
-The planned user's journey was received with negative feedback from users as these missions led to a lower user retention than normal and to long waiting times before they could finish the next sprint. These missions also took up a lot of reviewing time and was automated by botters using AI generated text. 
+WG-zealy calls will no longer be happening.
 
-The "Star GitHub Repo's" mission was scrapped as although there was real users completing the mission showing screenshots of doing so, we believe automated anti-spam systems on GitHub prevented us to see the stars both from the user's profile and on the repo's themselves.
+The community manager and technical administrator roles proposed in [discussion 822](https://github.com/orgs/akash-network/discussions/822) are merged into a single program lead role.
 
-The "Deploy on Akash Console" mission was automated and botted but also very successful among real users, having 300 total successful submissions in total across the 3 months.
+The program will run with no downtime assuming that future proposals pass reliably. If this discussion does not pass by the start of Q3, any changed proposal will still only ask for the monthly request.
 
-The "Create a web-app & deploy it on Akash" mission did receive a good number of submissions, for a total of 56 submissions at the end of the campaign.
+Starting the program and scaling it is planned over a long period of time, ideally bringing this program to more platforms. This will not happen with this proposal but will be drafted for the Q4 proposal.
 
-Approximately 20% of submissions during the January sprint was suspected by us to be automatically completed and submitted by a highly skilled botter.
+To fight abuse, paid missions may be more limited in the duration of the missions and the number of winners per mission.
 
-The first promotional mission "Deploy on Quasarch" was successful, bringing the beta testing feedback of 140 users and at least the same number of users to the platform at a cost of 1.0-2.5 AKT per user.
+The funding request structure is going back to what was proposed in [discussion 633](https://github.com/orgs/akash-network/discussions/633) requesting for 4 months at once, requesting new funds on that fourth month, to keep operations running non-stop.
 
-Although it wasn't easy, we were able to keep the budget in check. The first month was very successful even though the rewards were not higher than previous sprints, which used up all the unused funds from last proposal.
+More people are going to be involved in the administrative part of the program with a focus on delegating work to make the program more sustainable for when people need to take time off and scalable for later on. 3 people have shown interest in contributing to the administrative part of this program, excluding the program lead. One person may have multiple roles in this program.
 
-## Changes to the program
+## Roles
 
-As we figured out a workflow on how to limit the downtime between sprints, we are going to put this into practice and make the Zealy program be available almost every day of the year instead of having days or weeks of downtime sometimes like we used to have.
+- Multiple roles for each task
+  - Defined tasks
+    - Mission review: 
+      - Missions should be reviewed within two weeks, with an internal goal of one week or less.
+    - Mission create: 
+      - A minimum of one technical, one social, and one design-related mission should be created monthly.
+    - Payroll & payments:
+      - Responsible for paying payroll, rewards, and miscellaneous payments on time.
+      - Documents all miscellaneous payments in a spreadsheet, grouping together payments such as monthly reward payments that are documented elsewhere (e.g. when a rewards list is published showing where all payments go).
+      - Responds to queries related to users having entered the wrong address.
+    - Program lead:
+      - Handles community funds without owning the funds or owing taxes. This is only to be used on proposal deposits, TX fees, and to be sent to "payroll & payments"-person. In case of 3 months of inactivity, 3 failed proposals, or in the case of the program being canceled, community funds will be returned leaving the wallet with less than 1 AKT.
+      - Drafts, presents, and publishes discussions and proposals to SIGs & the Steering Committee.
+      - Handles administrative work keeping operations running smoothly which includes creating and running different helper scripts and fighting abuse.
+      - Manages and reviews role applications.
+      - Complements all other roles if necessary.
+- Ability to delegate work to program lead or to person with the same role to take time off.
 
-Abuse is something that we have always seen to an extent on Zealy, but now with the large scale it has been happening on we are going to create missions in such a way that it cannot be exploited anymore. One example of this is the "Develop your own ideas!" mission we had in the February sprint where people could submit projects to a few different tracks with only the best project being eligible for a larger prize.
+## Monthly request
 
-Another idea we want to bring forward is making the program less reliant on Zealy, giving us the opportunity to host smaller contests on other platforms as well such as Galxe and hosting our own competitions not relying on any paid platform at all. This will be worked on with the same rewards budget and only given to successful participants like always, just that we may diverge a little from Zealy to explore other ways of finding and educating users.
+- **Total: $9,500 USD + fees**
+  - Roles: $4,000 USD
+    - Program lead (piberdev): $1,000 USD
+    - Payroll & payments (rodri): $500 USD
+    - Mission review: $1,250 USD (divided by 2 or 3 if needed)
+    - Mission create: $1,250 USD (divided by 2 or 3 if needed)
+  - Miscellaneous payments: $500 USD (e.g. platform subscriptions, bonus rewards, spontaneous small contests, and ad-hoc bounties.)
+  - Mission rewards: $5,000 USD
 
-## Resources required
+> If USDC and AKT can be requested through the same proposal, a 5% conversion fee will be added to payroll and other payments where funds must be converted to fiat. Otherwise, a 10% buffer will be added to the entire proposal, and this conversion fee will be added at the time of withdrawing funds or sending out payroll.
 
-In the past, we have only used 2 roles in total in the Zealy Program, but now we are considering changing this so that it can scale. Last run, we wanted to make the program smaller but got overwhelmed with abuse and complaints, so now we are bringing it back to the level previously used in [discussion 633](https://github.com/orgs/akash-network/discussions/633). By changing the number of roles and using the same budget as previously approved, this gives us the opportunity to let other people contribute and for us to be more flexible with who is responsible for what tasks.
+## Timeline and credibility
 
-> 1x community manager @ $750/role/month (taking the lead on wg-zealy calls; writing announcements; reaching out to people in DMs; paying out rewards; etc)
-> 
-> 1x technical administrator @ $750/role/month (giving technical updates on wg-zealy calls, compiling data, creating/updating scripts, fighting abuse)
-> 
-> 1x mission/contest lead @ $1000/role/month (creating new community, technical, and promotional missions and arranging specialized contests such as gamejams and focused and small hackathons)
-> 
-> 2x mission reviewers @ $750/role/month (reviewing all missions within 1-2 weeks and judging all contests)
->
-> Subscriptions and other misc. costs @ upwards of $1000/quarter.
->
-> Rewards/prize pool @ $3000 USD/month
-> 
-> Total: $4334/month requested as USDC + $3000 USD/month worth of AKT.
-
-## Proposal funding
-
-Due to the Steering Committee Meeting not always occuring at the last Thursday of each month, we are going back to requesting 4 months at a time with a month-long buffer at the end where we present our results and request additional funds. This will be done exactly as we did previously:
-
-> We are also proposing asking for funding for at least 4 months at a time while reporting every 3 months to ensure that we can make the program run without breaks. One period can be between months 1-3 and then this will be reported on, and any changes/discussion will be made during the 4th month. The 4th month would be included in the next report and months 5 and 6 would include potential changes from the discussion on month 4. With our current system we have been unable to run the program without breaks because we plan the new periods during the breaks. - [discussion 633](https://github.com/orgs/akash-network/discussions/633)
-
-We are going to start a sprint for March as soon as the proposal passes or earlier if we feel like the left-over funds can be utilized in a meaningful way. A new wallet will be used to manage new Zealy funds.
-
-If no changes are made, we will publish this proposal to request funding for 4 months for a total request of $29336 USD one week after the Steering Committee Meeting. If requesting USDC and AKT in the same proposal is not possible on Mintscan or through the CLI, we will request everything in AKT with an added 10% buffer, using the fiat rate for payments tracked in USD. This would total to $32270 USD worth of AKT.
+Piberdev who is taking the full lead on the program this time around has been a community member for 4 years and a Vanguard for 3 years. This program has been running mostly successfully for over a year with changes each time around. This proposal has been reviewed by some members of OCL and will be discussed on the next SIG-community call on the 10th of June. If no major changes are requested, it will be presented in the next Steering Committee call on the 26th of June as well. If this goes well, the proposal will go on chain ASAP and the program will start again by the middle of July. Role payments will be paid in full the first month as the first half of the month will be used to prepare the first sprint.
