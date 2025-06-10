@@ -16,6 +16,8 @@ WG-zealy calls will no longer be happening.
 
 The community manager and technical administrator roles proposed in [discussion 822](https://github.com/orgs/akash-network/discussions/822) are merged into a single program lead role.
 
+The program will volunteer reviewing and mission-creating resources to the [community contribution program](https://github.com/orgs/akash-network/discussions/811) whenever applicable. [link to discord convo](https://discord.com/channels/747885925232672829/1228111432999239872/1379112309796114472)
+
 The program will run with no downtime assuming that future proposals pass reliably. If this discussion does not pass by the start of Q3, any changed proposal will still only ask for the monthly request.
 
 Starting the program and scaling it is planned over a long period of time, ideally bringing this program to more platforms. This will not happen with this proposal but will be drafted for the Q4 proposal.
