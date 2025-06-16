@@ -35,7 +35,7 @@ More people are going to be involved in the administrative part of the program w
     - Mission review: 
       - Missions should be reviewed within two weeks, with an internal goal of one week or less.
     - Mission create: 
-      - A minimum of one technical, one social, and one design-related mission should be created monthly.
+      - A minimum of one technical, one social, and one design-related mission should be created monthly. Many of the missions will be created to try to directly benefit the community structure by tracking and funneling users to different community programs and e.g. helping test different features or developing useful applications. Some missions might be exclusive to sub-sections of the community, such as the Akash Insiders.
     - Payroll & payments:
       - Responsible for paying payroll, rewards, and miscellaneous payments on time.
       - Documents all miscellaneous payments in a spreadsheet, grouping together payments such as monthly reward payments that are documented elsewhere (e.g. when a rewards list is published showing where all payments go).
@@ -48,19 +48,23 @@ More people are going to be involved in the administrative part of the program w
       - Complements all other roles if necessary.
 - Ability to delegate work to program lead or to person with the same role to take time off.
 
-## Monthly request
+## Monthly request & total budget
 
-- **Total: $9,500 USD + fees**
+- Monthly request: $9,500 USD + fees
   - Roles: $4,000 USD
     - Program lead (piberdev): $1,000 USD
     - Payroll & payments (rodri): $500 USD
     - Mission review: $1,250 USD (divided by 2 or 3 if needed)
     - Mission create: $1,250 USD (divided by 2 or 3 if needed)
   - Miscellaneous payments: $500 USD (e.g. platform subscriptions, bonus rewards, spontaneous small contests, and ad-hoc bounties.)
-  - Mission rewards: $5,000 USD
+  - Mission rewards: $5,000 USD (**note that this can be lowered again to $3,000 USD/month if the total budget is deemed to be too high**)
 
 > If USDC and AKT can be requested through the same proposal, a 5% conversion fee will be added to payroll and other payments where funds must be converted to fiat. Otherwise, a 10% buffer will be added to the entire proposal, and this conversion fee will be added at the time of withdrawing funds or sending out payroll.
 
+The total budget consists of the Q3 Budget @ $28,500 USD plus a request of the buffer month to make sure that operations run smoothly at a total sum of $38,000. This figure does not include the fees mentioned above as we are not sure if it's possible to create such a proposal or if we are going to have to request everything in AKT or USDC - we are not going to submit multiple funding proposals at once.
+
+**Total request: $38,000 USD + fees**
+
 ## Timeline and credibility
 
-Piberdev who is taking the full lead on the program this time around has been a community member for 4 years and a Vanguard for 3 years. This program has been running mostly successfully for over a year with changes each time around. This proposal has been reviewed by some Akash Insiders and will be discussed on the next SIG-community call on the 10th of June. If no major changes are requested, it will be presented in the next Steering Committee call on the 26th of June as well. If this goes well, the proposal will go on chain ASAP and the program will start again by the middle of July. Role payments will be paid in full the first month as the first half of the month will be used to prepare the first sprint.
+Piberdev who is taking the full lead on the program this time around has been a community member for 4 years and a Vanguard for 3 years. This program has been running mostly successfully for over a year with changes each time around. This proposal has been reviewed by some Akash Insiders with no changes suggested and was discussed in the SIG-community call on the 10th of June where some questions were asked and some feedback was given. The feedback should be fully implemented in this revised document. If no major changes are requested, it will be presented in the next Steering Committee call on the 26th of June as well. If this goes well, the proposal will go on chain ASAP and the program will start again by the middle of July. Role payments will be paid in full the first month as the first half of the month will be used to prepare the first sprint.
