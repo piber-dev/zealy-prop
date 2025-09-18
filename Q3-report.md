@@ -1,0 +1,17 @@
+# Zealy Q3 Results
+
+After creating new and more roles within the same role budget, we can safely say that the productivity has improved. With the new roles and new contributors to the program, we were able to run the Zealy program smoothly and we hit our external and internal goals of what it meant to keep operations running smooth. We were also able to spend a lot of time helping make contributions to the contributions program and help them review some work and help another Akash Insider judge hackathon projects on the Akash-sponsored HackOdisha hackathon.
+
+After making it harder to become a verified user on Zealy by adding verification missions where users for example had to create a contribution before getting access to paid missions, we lowered the number of users to 41 but each user did something more than just learn this time around. In the first month even before any real collaboration was made with the Akash-Website Working Group (WG), the surge of activity in simpler pull requests of the Zealy users was brought up in a call by 0xBoldPanther. At the time of writing, over 50 contributions were made in the form of GitHub contributions, GitHub repos, articles written for AkashReport, and similar which is very similar to the Contributions Programs results for Q3. Additionally over 100 other missions were claimed, funneling people to various programs and resources within the community. 
+
+Monthly updates were given in the SIG-community call and the updates ranged from simpler small updates to demos of the tech that was built for future contests. A public tracker was built for the community to transparently see what community pool funds were spent on. When smaller questions related to the budget was asked, it was presented in the SIG-community call and voted on in the Discord channel.
+
+We experimented with creating contests outside of Zealy, in an effort to bring in new tenants and contributors to the network. A gamejam where game developers could learn about deploying game servers on Akash was planned to run on itch.io. For this gamejam, an Akash Insider was given the opportunity to create documentation, demos, images, and SDLs to make it possible for these users to learn this quickly.
+
+## Notable points
+
+- Many smaller contributions were made by Zealy users to Akash Network repositores such as the documentation and website ones because of a XP-only mission that requested the users to create their first contribution to Akash.
+  - Examples [1](https://github.com/akash-network/website/pull/744), [2](https://github.com/akash-network/website/pull/756), & [3](https://github.com/akash-network/website/pull/795)
+- A bounty was given to an Akash Insider, Fenil Modi, to create a game client demo and a way to host custom game servers on Akash. This repo can be seen [here](https://github.com/fenilmodi00/colyseus-unity-sdk/tree/docker-optimized) and is to be used for the upcoming game jam contest.
+- A SECRET PROJECT was built and open-sourced as a demo to be used and expanded on by the contributions program to become a real app, or other community members who wants to use it. In Q4, we are hoping to continue help building a version of it to fit the AkashVPN project built by the contributions program.
+- A [public tracker](https://docs.google.com/spreadsheets/d/1PJb4RWwhPE72z3SfiWI4jyObi532M-m-bj1CurMaViY/edit?gid=107244606#gid=107244606) for how the funds were spent was built and shared in a link after the first month.
