@@ -1,4 +1,4 @@
-# Updated Zealy Proposal
+# Updated Zealy Q4 Proposal
 
 Original proposal can be found [here](https://www.mintscan.io/akash/proposals/305) and the original Q4 proposal discussion can be found [here](https://github.com/orgs/akash-network/discussions/1046).
 
@@ -17,8 +17,9 @@ After receiving your feedback over the past few days, here are some high-level c
 - A minimum of 2 monthly contest winners winning SWAG and AKT for November and December. We are hoping to have more contests than this that make contributors feel encouraged to get involved more than they have had.
 - Review times below 2 weeks for Zealy missions.
 - Timely collaboration when needed with the Contributions Program.
-- The platform demo being open-sourced. It will be a bonus if we have time to start the AkashVPN rebuild.
-- SWAG being created.
+- Joining SIG-community calls monthly, reporting quickly on progress and answering all questions related to the proposal.
+- The platform demo being open-sourced and starting work on creating a meeting group and rebuilding AkashVPN.
+- A SWAG contest being hosted and SWAG being produced.
 
 Key figures such as average WG/SIG participation counts, total missions completed, and total reviews done for the Contributions Program will be collected and reported on to help people gauge the success of the program but no official goals are being set for these figures.
 
@@ -26,9 +27,9 @@ Key figures such as average WG/SIG participation counts, total missions complete
 - Total request: $21,450 including overages.
   - Monthly request: $6,500 USD + fees
     - Roles: $4,000 USD (same budget but added and changed responsibilities inside the group)
-    - Mission rewards: $1,000 USD or less
-    - Contest rewards: $1,000 USD or less
-    - SWAG: $500 USD or less
+    - Mission rewards: $1,000 USD or less in AKT.
+    - Contest prizes: $1,000 USD or less in AKT.
+    - SWAG: $500 USD or less. SWAG is to be given out to contest winners, program team members, and at events if team members participate on them.
 
 If the program does not pass 3 revisions of a proposal or is inactive for 3 months, all funds will get returned just as mentioned in the Q3 proposal. Budgets do not mix with each other and will not roll over to the next month. We always base budgets in dollar amounts, prioritizing role budgets, so AKT being spent may vary over the months. The one exception is that we use the budget to create deposits for the proposals. A 10% buffer will be added to the proposal and a 5% conversion fee will be added to fiat payments such as the role payments.
 
